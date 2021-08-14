@@ -1,0 +1,44 @@
+=============== Aug 14, 2021 (AEST) ===============
+15:00:07.562253 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+15:00:07.570087 db@open opening
+15:00:07.571724 version@stat F·[] S·0B[] Sc·[]
+15:00:07.575945 db@janitor F·2 G·0
+15:00:07.575945 db@open done T·5.813ms
+15:00:07.592171 db@close closing
+15:00:07.592677 db@close done T·506.4µs
+=============== Aug 14, 2021 (AEST) ===============
+15:03:05.632462 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+15:03:05.633460 version@stat F·[] S·0B[] Sc·[]
+15:03:05.633460 db@open opening
+15:03:05.633460 journal@recovery F·1
+15:03:05.640964 journal@recovery recovering @1
+15:03:05.645964 memdb@flush created L0@2 N·626 S·51KiB "\x02d\xfc..\x19Ba,v430":"\xfe\x88\xcf..H\xef\xcc,v363"
+15:03:05.652961 version@stat F·[1] S·51KiB[51KiB] Sc·[0.25]
+15:03:05.663958 db@janitor F·3 G·0
+15:03:05.663958 db@open done T·30.4974ms
+15:37:44.540475 db@close closing
+15:37:44.541013 db@close done T·537.6µs
+=============== Aug 14, 2021 (AEST) ===============
+17:05:13.610437 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:05:13.611435 version@stat F·[1] S·51KiB[51KiB] Sc·[0.25]
+17:05:13.611435 db@open opening
+17:05:13.611435 journal@recovery F·1
+17:05:13.619982 journal@recovery recovering @3
+17:05:13.626628 memdb@flush created L0@5 N·939 S·54KiB "\x02d\xfc..\x19Ba,v1224":"\xfe\x88\xcf..H\xef\xcc,v1104"
+17:05:13.636623 version@stat F·[2] S·105KiB[105KiB] Sc·[0.50]
+17:05:13.646620 db@janitor F·4 G·0
+17:05:13.646620 db@open done T·35.1844ms
+17:42:29.007156 db@close closing
+17:42:29.008158 db@close done T·1.0021ms
+=============== Aug 15, 2021 (AEST) ===============
+00:59:05.128333 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+00:59:05.140238 version@stat F·[2] S·105KiB[105KiB] Sc·[0.50]
+00:59:05.140238 db@open opening
+00:59:05.140754 journal@recovery F·1
+00:59:05.151478 journal@recovery recovering @6
+00:59:05.164027 memdb@flush created L0@8 N·1200 S·63KiB "\x15xD..:\xfe\xc2,v2761":"\xe5\\\b..\x95:<,v2762"
+00:59:05.174762 version@stat F·[3] S·168KiB[168KiB] Sc·[0.75]
+00:59:05.183383 db@janitor F·5 G·0
+00:59:05.183383 db@open done T·43.1458ms
+01:20:25.946992 db@close closing
+01:20:25.946992 db@close done T·0s
